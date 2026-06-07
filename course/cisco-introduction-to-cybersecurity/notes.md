@@ -387,7 +387,7 @@ Organizations create formal policies to guide security practices:
 ---
 
 ### 4.3 Cisco's Approach to Cybersecurity
-⚠️ *To be completed — skipped during course*
+⚠️ *To be completed*
 
 ---
 
