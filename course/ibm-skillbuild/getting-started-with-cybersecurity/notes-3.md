@@ -316,8 +316,7 @@ AdwCleaner    →  Targets browser-level threats (adware, spyware, PUPs, hijacke
 
 The complete step-by-step simulation transcript is stored separately here:
 
-📄 `course/ibm-skillbuild/getting-started-with-cybersecurity/simulation-transcript.pdf`
-
+📄 [View Malwarebytes Simulation Transcript](./simulation-transcript.pdf)
 ---
 
 *Notes by: Tushar Jagad | IBM SkillsBuild — Getting Started in Cybersecurity | course 3 Protecting a Device with Malwarebytes*
